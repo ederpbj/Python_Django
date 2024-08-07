@@ -7,6 +7,7 @@ python -m http.server 8000 #roda servidor na porta 8000
 ### Links úteis
 
 [Imagens do google](https://images.google.com/)
+
 [Curso](https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/learn/lecture/15591246#content)
 
 
