@@ -1,7 +1,9 @@
-### Aula_08
+### Comandos
 
 ```Python
+
 python -m http.server 8000 #roda servidor na porta 8000
+
 ```
 
 ### Links úteis
@@ -11,9 +13,8 @@ python -m http.server 8000 #roda servidor na porta 8000
 [Curso](https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/learn/lecture/15591246#content)
 
 
-### Aulas
+### Aulas Resumos
 
-Pasta Drive
 
 A4) Cliente servidor
 
