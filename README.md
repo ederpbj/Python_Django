@@ -11,6 +11,7 @@ python -m http.server 8000 #roda servidor na porta 8000
 [Curso](https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/)
 
 [HTML for beginners](https://html.com/)
+[Web Developer - extension](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR&pli=1)
 
 
 ### Aulas Resumos
