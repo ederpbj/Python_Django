@@ -16,6 +16,7 @@ python -m http.server 8000 #roda servidor na porta 8000
 
 [Bootstrap](https://getbootstrap.com/)
 
+[One page html](https://onepagelove.com/templates/free-templates)
 
 ### Aulas Resumos
 
@@ -35,3 +36,7 @@ python -m http.server 8000 #roda servidor na porta 8000
 8. Criando Html básico
 
 9. CSS
+
+10. Javascript
+
+11. Frameworks
