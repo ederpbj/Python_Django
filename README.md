@@ -21,21 +21,21 @@ python -m http.server 8000 #roda servidor na porta 8000
 ### Aulas Resumos
 
 
-4. Cliente servidor
+04. Cliente servidor
 
-5. Protocolos http / https, Get, post, put, delete
+05. Protocolos http / https, Get, post, put, delete
 
-6. Back, front e fullstack
+06. Back, front e fullstack
 
-7. Programação estática / Programação dinâmica
+07. Programação estática / Programação dinâmica
 
 * Estática feita no front (css, html, javascript)
 
 * Dinâmica feita no servidor (python, javascript, ruby)
 
-8. Criando Html básico
+08. Criando Html básico
 
-9. CSS
+09. CSS
 
 10. Javascript
 
